@@ -14,7 +14,7 @@ You will mainly use a **Discussion section** for announcements and assignments s
 - **Online Lectures:**
   - Zoom link: https://arizona.zoom.us/j/89873942392
  
-- ** Link to the Living Book: Mathematics of Generative AI, M. Chertkov (to be published by World Scientific in 2026)
+- **Link to the Living Book**: Mathematics of Generative AI, M. Chertkov (to be published by World Scientific in 2026)
   - https://github.com/mchertkov/Mathematics-of-Generative-AI-Book
     - contains pdf file + Jupyter/Python notebooks cited in the book
 
